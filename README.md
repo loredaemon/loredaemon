@@ -49,6 +49,16 @@ and **how not to accidentally create a routing black hole** (again).
 
 ---
 
+## 📬 Contact
+
+- 📧 Email: [loredaemon@proton.me](mailto:loredaemon@proton.me)  
+  _(If your message contains cursed config files or printer exorcism requests, I’ll respond faster.)_
+
+---
+
+
+---
+
 > 👁️‍🗨️ *Yes, I know what a trunk is. No, I still don’t fully trust DHCP.*
 
 
