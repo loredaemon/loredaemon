@@ -18,7 +18,7 @@ and **how not to accidentally create a routing black hole** (again).
 - 🧪 Studying with **Hack The Box Academy** – breaking things legally, I promise
 - 🐧 Using **Linux** because it makes me feel powerful (and confused)
 - 🍏 Using **macOS** because sometimes I like nice things
-- 🎸 Tinkering with gear and **electric guitars**, because tech doesn’t always live in cables
+- 🎸 Tinkering with gear
 
 ---
 
@@ -37,7 +37,7 @@ and **how not to accidentally create a routing black hole** (again).
 
 - PC & PS5 gamer. I switch between OSINT and monster hunting regularly.
 - I love reading, haunted libraries, old protocols, and weird tech rabbit holes.
-- I once explained ARP using carrier pigeons. Nobody asked, but I did it anyway.
+- I can explain 2FA or NAT even to your grandma if you need me to
 
 ---
 
@@ -45,7 +45,7 @@ and **how not to accidentally create a routing black hole** (again).
 
 - You're learning CCNA and panicking about OSPF
 - You think security should be understandable and not just a buzzword
-- You’ve ever rage-quit Wireshark but went back like a toxic ex
+- You’ve ever rage-quit Wireshark
 
 ---
 
